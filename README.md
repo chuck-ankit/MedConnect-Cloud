@@ -117,7 +117,7 @@ graph TD
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/your-repository/medconnect-cloud.git
+   git clone [https://github.com/your-repository/medconnect-cloud.git](https://github.com/chuck-ankit/MedConnect-Cloud.git)
    cd medconnect-cloud
    ```
 
